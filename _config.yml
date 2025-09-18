@@ -1,20 +1,20 @@
 # main text of home
-name: Jane Doe
-bio: A Girl who travels the world eating noodles
+name: Viviana Jimenez
+bio: Una chica amante del Pozole y de la Playa.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Un blog personal sobre lo que viví este año.
 
-picture: assets/images/picture.jpg
+picture: assets/images/imagenyo..jpg
 
 url: http://koppl.in/violet
-# your url: http://USERNAME.github.io
+# your url: https://github.com/Vivianajim1/Vivianajim1.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: me@jane.doe
+facebook: Viviana Jimenez
+twitter: Viviux.mx
+github: Vivianajim1
+email: Vivianagpe1234@gmail.com
 
 gems:
   - jekyll-seo-tag
