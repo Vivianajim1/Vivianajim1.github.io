@@ -4,14 +4,14 @@ bio: Una chica amante del Pozole y de la Playa.
 
 # twitter summary info
 description: Un blog personal sobre lo que viví este año. Compartamos experiencias juntos.
-picture: imagenyo..jpg
+picture:  ![alt text](imagen.jpg)
 
 url: http://koppl.in/violet
 # your url: https://github.com/Vivianajim1/Vivianajim1.github.io
 
 # if you don't have any of social below, comment the line
-facebook: Viviana Jimenez
-twitter: Viviux.mx
+facebook:  Viviana Jimenez
+twitter:  Viviux.mx
 github: Vivianajim1
 email: Vivianagpe1234@gmail.com
 
