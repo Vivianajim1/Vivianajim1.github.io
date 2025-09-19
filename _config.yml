@@ -3,17 +3,20 @@ name: Viviana Jimenez
 bio: Una chica amante del Pozole y de la Playa.
 
 # twitter summary info
-description: Un blog personal sobre lo que viví este año. Compartamos experiencias juntos.
-picture: /assets/images/imagen.jpg
+description: Un blog personal que te permitirá conocerme.
+picture: imagen..jpg
 
 url: http://koppl.in/violet
 # your url: https://github.com/Vivianajim1/Vivianajim1.github.io
 
 # if you don't have any of social below, comment the line
-facebook:  Viviana Jimenez
-twitter:  Viviux.mx
-github: Vivianajim1
-email: Vivianagpe1234@gmail.com
+<!-- Redes sociales -->
+<a href="https://www.facebook.com/ViviJimenez" target="_blank" rel="noopener noreferrer">Facebook</a><br>
+<a href="https://twitter.com/vivium.c" target="_blank" rel="noopener noreferrer">Twitter</a><br>
+<a href="https://github.com/Vivianajim1" target="_blank" rel="noopener noreferrer">GitHub</a><br>
+
+<!-- Correo electrónico -->
+<a href="mailto:vivianagpe1234@gmail.com">Correo</a>
 
 gems:
   - jekyll-seo-tag
