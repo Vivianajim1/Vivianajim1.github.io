@@ -4,7 +4,7 @@ bio: Una chica amante del Pozole y de la Playa.
 
 # twitter summary info
 description: Un blog personal sobre lo que viví este año. Compartamos experiencias juntos.
-picture:  ![alt text](imagen.jpg)
+picture: picture: /assets/images/imagen.jpg
 
 url: http://koppl.in/violet
 # your url: https://github.com/Vivianajim1/Vivianajim1.github.io
